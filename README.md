@@ -41,7 +41,7 @@ This story contains mature themes such as:
 - Depictions of grief  
 - Consequences of poor emotional regulation  
 
-**Reader discretion is advised.**
+**This story may contain scenes which may not be suitable for people below 18 years old. Reader discretion is advised.**
 
 ---
 
@@ -60,6 +60,3 @@ The purpose of this work is to:
 Writing this story allowed the author to process emotional challenges through creativity rather than harmful actions.
 
 ---
-
-## 📂 Repository Structure
-
